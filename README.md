@@ -1,1 +1,2 @@
 # wks_git
+exercício
